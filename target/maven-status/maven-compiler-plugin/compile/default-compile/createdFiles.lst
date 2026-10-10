@@ -1,0 +1,12 @@
+com\example\perfproject\PerfProjectApplication.class
+com\example\perfproject\config\DataInitializer.class
+com\example\perfproject\repository\BookRepository.class
+com\example\perfproject\service\BookAuthorService.class
+com\example\perfproject\model\Book.class
+com\example\perfproject\repository\AuthorRepository.class
+com\example\perfproject\dto\AuthorResponse$AuthorResponseBuilder.class
+com\example\perfproject\dto\BookResponse$BookResponseBuilder.class
+com\example\perfproject\dto\AuthorResponse.class
+com\example\perfproject\dto\BookResponse.class
+com\example\perfproject\controller\PerformanceController.class
+com\example\perfproject\model\Author.class
